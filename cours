@@ -1,0 +1,5 @@
+dotnet --version                pour connaitre sa version de dotnet core
+dotnet new mvc --name=testmvc3.1 --> pour créer un projet mvc
+donet build --> pour compiler
+dotnet run --> pour démarrer
+dotnet --list-sdks --> lister les version qui sont installé 

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+01TqEESonnRAX0AI5Mu3L3SZ31PFSvNdZZ/WBaBdGS98sc+m9SMJTMD0RL5lK1rq/5JQ7HTVsKV7O+O+pJNdQ==",
+  "success": true,
+  "projectFilePath": "E:\\wksp\\asp.net\\Section2\\jeudontestleheros\\jeudontestleheros.Web.UI\\jeudontestleheros.Web.UI1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rouss\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

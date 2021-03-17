@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Fwhe34l7KHZqv3FyUhFzDThwnVNMGE/RodzallCaqvKz94bCbbcVHGUeloePgrhTRNvy9Riq2mK736/U2CyXw==",
+  "success": true,
+  "projectFilePath": "E:\\wksp\\asp.net\\Section2\\jeudontonestlehero\\webmvcdotnetavecVScommunity\\webmvcdotnetavecVScommunity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rouss\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
