@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\wksp\\asp.net\\TestVsWebMvc3.1\\TestVsWebMvc3.1\\TestVsWebMvc3.1.csproj": {}
+    "E:\\wksp\\ASP5DOTNETCORE\\Section1\\TestVsWebMvc3.1\\TestVsWebMvc3.1\\TestVsWebMvc3.1.csproj": {}
   },
   "projects": {
-    "E:\\wksp\\asp.net\\TestVsWebMvc3.1\\TestVsWebMvc3.1\\TestVsWebMvc3.1.csproj": {
+    "E:\\wksp\\ASP5DOTNETCORE\\Section1\\TestVsWebMvc3.1\\TestVsWebMvc3.1\\TestVsWebMvc3.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\wksp\\asp.net\\TestVsWebMvc3.1\\TestVsWebMvc3.1\\TestVsWebMvc3.1.csproj",
+        "projectUniqueName": "E:\\wksp\\ASP5DOTNETCORE\\Section1\\TestVsWebMvc3.1\\TestVsWebMvc3.1\\TestVsWebMvc3.1.csproj",
         "projectName": "TestVsWebMvc3.1",
-        "projectPath": "E:\\wksp\\asp.net\\TestVsWebMvc3.1\\TestVsWebMvc3.1\\TestVsWebMvc3.1.csproj",
+        "projectPath": "E:\\wksp\\ASP5DOTNETCORE\\Section1\\TestVsWebMvc3.1\\TestVsWebMvc3.1\\TestVsWebMvc3.1.csproj",
         "packagesPath": "C:\\Users\\rouss\\.nuget\\packages\\",
-        "outputPath": "E:\\wksp\\asp.net\\TestVsWebMvc3.1\\TestVsWebMvc3.1\\obj\\",
+        "outputPath": "E:\\wksp\\ASP5DOTNETCORE\\Section1\\TestVsWebMvc3.1\\TestVsWebMvc3.1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"

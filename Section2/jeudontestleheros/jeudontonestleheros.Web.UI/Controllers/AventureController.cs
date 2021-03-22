@@ -8,9 +8,13 @@ namespace jeudontonestleheros.Web.UI.Controllers
 {
     public class AventureController : Controller
     {
+        
         public IActionResult Index()
         {
+            this.ViewBag.Montitre = "Aventure"; 
+
             return View();
         }
+
     }
 }

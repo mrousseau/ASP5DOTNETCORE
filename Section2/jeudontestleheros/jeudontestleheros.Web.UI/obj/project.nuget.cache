@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+01TqEESonnRAX0AI5Mu3L3SZ31PFSvNdZZ/WBaBdGS98sc+m9SMJTMD0RL5lK1rq/5JQ7HTVsKV7O+O+pJNdQ==",
+  "dgSpecHash": "E1wsIS2XXd99JUsEdOy5aw4wVVkn2h2Y6bn+pmFnQzwMzQQPnIgHmEgdmVvwlvFz18GdaciY1QFLbRX+Vc1t2A==",
   "success": true,
-  "projectFilePath": "E:\\wksp\\asp.net\\Section2\\jeudontestleheros\\jeudontestleheros.Web.UI\\jeudontestleheros.Web.UI1.csproj",
+  "projectFilePath": "E:\\wksp\\ASP5DOTNETCORE\\Section2\\jeudontestleheros\\jeudontestleheros.Web.UI\\jeudontestleheros.Web.UI1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rouss\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
   ],

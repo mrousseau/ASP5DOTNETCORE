@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\wksp\\asp.net\\Section2\\jeudontestleheros\\jeudontestleheros.Web.UI\\jeudontestleheros.Web.UI1.csproj": {}
+    "E:\\wksp\\ASP5DOTNETCORE\\Section2\\jeudontestleheros\\jeudontestleheros.Web.UI\\jeudontestleheros.Web.UI1.csproj": {}
   },
   "projects": {
-    "E:\\wksp\\asp.net\\Section2\\jeudontestleheros\\jeudontestleheros.Web.UI\\jeudontestleheros.Web.UI1.csproj": {
+    "E:\\wksp\\ASP5DOTNETCORE\\Section2\\jeudontestleheros\\jeudontestleheros.Web.UI\\jeudontestleheros.Web.UI1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\wksp\\asp.net\\Section2\\jeudontestleheros\\jeudontestleheros.Web.UI\\jeudontestleheros.Web.UI1.csproj",
+        "projectUniqueName": "E:\\wksp\\ASP5DOTNETCORE\\Section2\\jeudontestleheros\\jeudontestleheros.Web.UI\\jeudontestleheros.Web.UI1.csproj",
         "projectName": "jeudontestleheros.Web.UI1",
-        "projectPath": "E:\\wksp\\asp.net\\Section2\\jeudontestleheros\\jeudontestleheros.Web.UI\\jeudontestleheros.Web.UI1.csproj",
+        "projectPath": "E:\\wksp\\ASP5DOTNETCORE\\Section2\\jeudontestleheros\\jeudontestleheros.Web.UI\\jeudontestleheros.Web.UI1.csproj",
         "packagesPath": "C:\\Users\\rouss\\.nuget\\packages\\",
-        "outputPath": "E:\\wksp\\asp.net\\Section2\\jeudontestleheros\\jeudontestleheros.Web.UI\\obj\\",
+        "outputPath": "E:\\wksp\\ASP5DOTNETCORE\\Section2\\jeudontestleheros\\jeudontestleheros.Web.UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"
