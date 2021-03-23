@@ -11,7 +11,8 @@ namespace jeudontonestleheros.Web.UI.Controllers
         
         public IActionResult Index()
         {
-            this.ViewBag.Montitre = "Aventure"; 
+            this.ViewBag.Montitre = "Aventure";
+            this.ViewBag.TabInCtrl = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
 
             return View();
         }

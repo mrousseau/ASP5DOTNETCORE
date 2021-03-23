@@ -2,10 +2,24 @@
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 @{
-    ViewData["Title"] = "Aventures";
-
-    
 }
 
-<h1>@ViewData["Title"]</h1>
-<h1>@ViewBag.MonTitre</h1>
+<h1 class="text-center">@ViewBag.MonTitre</h1>
+
+<h2 class="text-center small">Vos dernières aventures</h2>
+
+<div class="row justify-content-center">
+    <a asp-controller="Aventure" asp-action="Create" class="btn btn-primary">Nouvelle aventure</a>
+</div>
+
+<div class="row">
+    @foreach (var item in this.ViewBag.TabInCtrl)
+    {
+        <a href="#" class="card border m-2 text-center" style="width: 7rem;">
+            <div class="card-body">
+                @item
+            </div>
+
+        </a>
+    }
+</div>
