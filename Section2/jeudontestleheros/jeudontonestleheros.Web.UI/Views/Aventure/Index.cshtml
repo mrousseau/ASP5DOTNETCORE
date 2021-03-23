@@ -1,4 +1,7 @@
-﻿@*
+﻿@model List<Aventure>
+
+
+@*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 @{
@@ -13,13 +16,12 @@
 </div>
 
 <div class="row">
-    @foreach (var item in this.ViewBag.TabInCtrl)
+    @foreach (var aventure in Model)
     {
         <a href="#" class="card border m-2 text-center" style="width: 7rem;">
             <div class="card-body">
-                @item
+                @aventure.Titre  
             </div>
-
         </a>
     }
 </div>

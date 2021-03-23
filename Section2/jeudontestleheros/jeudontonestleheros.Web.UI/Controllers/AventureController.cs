@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using jeudontonestleheros.Web.UI.Models;
+using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,9 +13,22 @@ namespace jeudontonestleheros.Web.UI.Controllers
         public IActionResult Index()
         {
             this.ViewBag.Montitre = "Aventure";
-            this.ViewBag.TabInCtrl = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
 
-            return View();
+            List <Aventure> maList = new List<Aventure>();
+
+            maList.Add(new Aventure()
+            {
+                Id = 1,
+                Titre = "Ma première aventure"
+            });
+
+            maList.Add(new Aventure()
+            {
+                Id = 2,
+                Titre = "Ma Seconde aventure"
+            });
+
+            return View(maList);
         }
 
     }
