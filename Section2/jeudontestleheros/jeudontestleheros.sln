@@ -9,7 +9,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exemples", "Exemples", "{1E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "jeudontonestleheros.Web.UI", "jeudontonestleheros.Web.UI\jeudontonestleheros.Web.UI.csproj", "{E4126D43-5F37-4E33-8F26-6919F1FA897A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecouvertForeach", "DecouvertForeach\DecouvertForeach.csproj", "{9D877D14-3C27-4E6E-99CC-B96336941115}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecouvertForeach", "DecouvertForeach\DecouvertForeach.csproj", "{9D877D14-3C27-4E6E-99CC-B96336941115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jeuxdontonestlehero.Core.Data", "jeuxdontonestlehero.Core.Data\jeuxdontonestlehero.Core.Data.csproj", "{692F37A2-2454-4140-8472-83AAD704214D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libs", "Libs", "{663A5E7C-A0A6-4B3C-9829-2047665A42FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jeudontonestlehero.backoffice.Web.UI", "jeudontonestlehero.backoffice.Web.UI\jeudontonestlehero.backoffice.Web.UI.csproj", "{4805545E-1F92-4934-86CC-277FFDA53355}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +35,14 @@ Global
 		{9D877D14-3C27-4E6E-99CC-B96336941115}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D877D14-3C27-4E6E-99CC-B96336941115}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D877D14-3C27-4E6E-99CC-B96336941115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{692F37A2-2454-4140-8472-83AAD704214D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692F37A2-2454-4140-8472-83AAD704214D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692F37A2-2454-4140-8472-83AAD704214D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692F37A2-2454-4140-8472-83AAD704214D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4805545E-1F92-4934-86CC-277FFDA53355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4805545E-1F92-4934-86CC-277FFDA53355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4805545E-1F92-4934-86CC-277FFDA53355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4805545E-1F92-4934-86CC-277FFDA53355}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,6 +50,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{01D1B3F5-CF1A-49CB-957B-1C4350A5D463} = {1EF1BA97-86BC-41BC-B8FE-BE4CD79F3D31}
 		{9D877D14-3C27-4E6E-99CC-B96336941115} = {1EF1BA97-86BC-41BC-B8FE-BE4CD79F3D31}
+		{692F37A2-2454-4140-8472-83AAD704214D} = {663A5E7C-A0A6-4B3C-9829-2047665A42FC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {982755DD-79EC-4353-BCE0-74F90097D304}

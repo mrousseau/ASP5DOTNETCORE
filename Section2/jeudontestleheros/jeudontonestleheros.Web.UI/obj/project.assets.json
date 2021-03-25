@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "jeuxdontonestlehero.Core.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/jeuxdontonestlehero.Core.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/jeuxdontonestlehero.Core.Data.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "jeuxdontonestlehero.Core.Data/1.0.0": {
+      "type": "project",
+      "path": "../jeuxdontonestlehero.Core.Data/jeuxdontonestlehero.Core.Data.csproj",
+      "msbuildProject": "../jeuxdontonestlehero.Core.Data/jeuxdontonestlehero.Core.Data.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "jeuxdontonestlehero.Core.Data >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\rouss\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\wksp\\ASP5DOTNETCORE\\Section2\\jeudontestleheros\\jeuxdontonestlehero.Core.Data\\jeuxdontonestlehero.Core.Data.csproj": {
+              "projectPath": "E:\\wksp\\ASP5DOTNETCORE\\Section2\\jeudontestleheros\\jeuxdontonestlehero.Core.Data\\jeuxdontonestlehero.Core.Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

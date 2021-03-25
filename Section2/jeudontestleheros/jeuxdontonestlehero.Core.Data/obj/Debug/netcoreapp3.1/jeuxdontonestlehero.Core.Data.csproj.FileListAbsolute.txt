@@ -1,0 +1,9 @@
+E:\wksp\ASP5DOTNETCORE\Section2\jeudontestleheros\jeuxdontonestlehero.Core.Data\bin\Debug\netcoreapp3.1\jeuxdontonestlehero.Core.Data.deps.json
+E:\wksp\ASP5DOTNETCORE\Section2\jeudontestleheros\jeuxdontonestlehero.Core.Data\bin\Debug\netcoreapp3.1\jeuxdontonestlehero.Core.Data.dll
+E:\wksp\ASP5DOTNETCORE\Section2\jeudontestleheros\jeuxdontonestlehero.Core.Data\bin\Debug\netcoreapp3.1\jeuxdontonestlehero.Core.Data.pdb
+E:\wksp\ASP5DOTNETCORE\Section2\jeudontestleheros\jeuxdontonestlehero.Core.Data\obj\Debug\netcoreapp3.1\jeuxdontonestlehero.Core.Data.csprojAssemblyReference.cache
+E:\wksp\ASP5DOTNETCORE\Section2\jeudontestleheros\jeuxdontonestlehero.Core.Data\obj\Debug\netcoreapp3.1\jeuxdontonestlehero.Core.Data.AssemblyInfoInputs.cache
+E:\wksp\ASP5DOTNETCORE\Section2\jeudontestleheros\jeuxdontonestlehero.Core.Data\obj\Debug\netcoreapp3.1\jeuxdontonestlehero.Core.Data.AssemblyInfo.cs
+E:\wksp\ASP5DOTNETCORE\Section2\jeudontestleheros\jeuxdontonestlehero.Core.Data\obj\Debug\netcoreapp3.1\jeuxdontonestlehero.Core.Data.csproj.CoreCompileInputs.cache
+E:\wksp\ASP5DOTNETCORE\Section2\jeudontestleheros\jeuxdontonestlehero.Core.Data\obj\Debug\netcoreapp3.1\jeuxdontonestlehero.Core.Data.dll
+E:\wksp\ASP5DOTNETCORE\Section2\jeudontestleheros\jeuxdontonestlehero.Core.Data\obj\Debug\netcoreapp3.1\jeuxdontonestlehero.Core.Data.pdb
