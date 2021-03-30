@@ -405,3 +405,4 @@ E:\wksp\ASP5DOTNETCORE\Section2\jeudontestleheros\jeudontonestlehero.backoffice.
 E:\wksp\ASP5DOTNETCORE\Section2\jeudontestleheros\jeudontonestlehero.backoffice.Web.UI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
 E:\wksp\ASP5DOTNETCORE\Section2\jeudontestleheros\jeudontonestlehero.backoffice.Web.UI\obj\Debug\net5.0\jeudontonestlehero.backoffice.Web.UI.MvcApplicationPartsAssemblyInfo.cs
 E:\wksp\ASP5DOTNETCORE\Section2\jeudontestleheros\jeudontonestlehero.backoffice.Web.UI\obj\Debug\net5.0\Razor\Views\Paragraphe\Index.cshtml.g.cs
+E:\wksp\ASP5DOTNETCORE\Section2\jeudontestleheros\jeudontonestlehero.backoffice.Web.UI\obj\Debug\net5.0\Razor\Views\Paragraphe\Edit.cshtml.g.cs
